@@ -39,7 +39,7 @@ I'm Edgar, a passionate software developer focused on building innovative tools 
 - **GitHub**: [@imedgar](https://github.com/imedgar)
 - **LinkedIn**: [Edgar Garcia Rubio](https://www.linkedin.com/in/edgar-garcia-rubio/)
 - **Email**: <edgaru90@gmail.com>
-- **Site**: [imedgar.github.io](https://imedgar.github.io/edgar-site/)
+- **Site**: [imedgar.github.io](https://edgarrubio,dev/)
 
 ---
 *"// TODO: making the world a better place"*
