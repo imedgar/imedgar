@@ -40,6 +40,7 @@ I'm Edgar, a passionate software developer focused on building innovative tools 
 - **LinkedIn**: [Edgar Garcia Rubio](https://www.linkedin.com/in/edgar-garcia-rubio/)
 - **Email**: <edgaru90@gmail.com>
 - **Site**: [edgarrubio.dev](https://edgarrubio.dev/)
+- **Blog**: <https://imedgar.hashnode.dev/>
 
 ---
 *"// TODO: making the world a better place"*
